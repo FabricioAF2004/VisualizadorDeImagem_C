@@ -1,0 +1,16 @@
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\bin\Debug\net8.0-windows\VisualizadorDeImagem.exe
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\bin\Debug\net8.0-windows\VisualizadorDeImagem.deps.json
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\bin\Debug\net8.0-windows\VisualizadorDeImagem.runtimeconfig.json
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\bin\Debug\net8.0-windows\VisualizadorDeImagem.dll
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\bin\Debug\net8.0-windows\VisualizadorDeImagem.pdb
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\obj\Debug\net8.0-windows\VisualizadorDeImagem.Form1.resources
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\obj\Debug\net8.0-windows\VisualizadorDeImagem.csproj.GenerateResource.cache
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\obj\Debug\net8.0-windows\VisualizadorDeImagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\obj\Debug\net8.0-windows\VisualizadorDeImagem.AssemblyInfoInputs.cache
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\obj\Debug\net8.0-windows\VisualizadorDeImagem.AssemblyInfo.cs
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\obj\Debug\net8.0-windows\VisualizadorDeImagem.csproj.CoreCompileInputs.cache
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\obj\Debug\net8.0-windows\VisualizadorDeImagem.dll
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\obj\Debug\net8.0-windows\refint\VisualizadorDeImagem.dll
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\obj\Debug\net8.0-windows\VisualizadorDeImagem.pdb
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\obj\Debug\net8.0-windows\VisualizadorDeImagem.genruntimeconfig.cache
+C:\Users\Fabrício\source\repos\VisualizadorDeImagem\obj\Debug\net8.0-windows\ref\VisualizadorDeImagem.dll
